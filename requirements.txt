@@ -1,4 +1,4 @@
-setuptools
+setuptools>=61.0
 wheel
 appdirs==1.4.4
 APScheduler==3.7.0
